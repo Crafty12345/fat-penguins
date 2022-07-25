@@ -2,8 +2,9 @@
   "name":"fat-penguins",
   "version":"1.0.0",
   "private": true,
+  "main":"onlineGame1/server.js",
   "scripts":{
-    "start":"npm server.js"
+    "start":"npm onlineGame1/server.js"
 }
   "dependencies":{
     "express": "^4.18.1",
