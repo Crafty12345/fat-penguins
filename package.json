@@ -2,9 +2,9 @@
   "name": "fat-penguins",
   "version": "1.0.0",
   "description": "An online game I created (recreation of Game Pigeon's Knockout) called Fat Penguins",
-  "main": "server.js",
+  "main": "onlineGame1/server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node onlineGame1/server.js"
   },
   "repository": {
     "type": "git",
