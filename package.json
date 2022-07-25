@@ -1,6 +1,5 @@
 {
   "name":"fat-penguins",
-  "private":true,
   "main":"onlineGame1/server.js",
   "scripts":{
     "start":"npm onlineGame1/server.js"
